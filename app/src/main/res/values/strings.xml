@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatList</string>
+    <string name="username_hint">Username</string>
+    <string name="start_chat_btn">Start Chat</string>
+    <string name="username_validation">Username required</string>
+    <string name="min_validation">min 3 character required</string>
+</resources>
